@@ -1,0 +1,13 @@
+.Burger {
+  width: 100%;
+  height: 250px;
+  overflow: auto;;
+}
+
+@media (min-width: 768px) {
+  .Burger {
+    height: 500px;
+    max-width: 600px;
+    margin: auto;;
+  }
+} 
